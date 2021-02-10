@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitor Couto</h1>
+<h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coutodev&label=Profile%20views&color=73499c&style=flat" alt="coutodev" /> </p>
