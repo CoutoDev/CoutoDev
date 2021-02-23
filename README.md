@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coutodev&label=Profile%20views&color=73499c&style=flat" alt="coutodev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coutodev" target="blank"><img src="https://img.shields.io/twitter/follow/coutodev?logo=twitter&style=for-the-badge" alt="coutodev" /></a> </p>
-
 - 🔭 I’m currently working on **Implementation of stores on the Magento 2 Platform**
 
 - 🌱 I’m currently learning **Web Accessibility, Babel, eslint, webpack**
