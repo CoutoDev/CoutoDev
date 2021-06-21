@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Implementation of stores on the Magento 2 Platform**
 
-- 🌱 I’m currently learning **Web Accessibility, React, Clean Code**
+- 🌱 I’m currently learning **Web Accessibility, React, NextJS, VueJS Clean Code**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Know more about Design Patterns and Best Practices**
+- 🤝 I’m looking for help with **React, NextJS, VueJS, Design Patterns and Best Practices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoutoDev](https://github.com/CoutoDev)
-
-- 💬 Ask me about **Vanilla JS, CSS3, Magento 2 Front End Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
