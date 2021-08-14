@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Implementation of stores on the Magento 2 Platform**
 
-- 🌱 I’m currently learning **Web Accessibility, React, NextJS, VueJS and Clean Code**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **React, React Native, NextJS, VueJS, Magento 2 and Clean Code**
 
 - 🤝 I’m looking for help with **React, NextJS, VueJS, Design Patterns and Best Practices**
 
