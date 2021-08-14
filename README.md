@@ -180,7 +180,7 @@
 
 <p>
 	<img
-		align="right"
+		align="center"
 		src="https://github-readme-stats.vercel.app/api?username=coutodev&show_icons=true&theme=synthwave&title_color=e06ae2&text_color=9058b6&locale=en"
 		alt="coutodev"
 	/>
