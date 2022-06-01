@@ -8,7 +8,7 @@
 	/>
 </p>
 
-  - 🔭 I’m currently working on **Implementation of stores with VTEX IO* 
+  - 🔭 I’m currently working on **Implementation of stores with VTEX IO** 
   - 🌱 I’m currently learning **React, React Native, NextJS, VueJS, and Clean Code** 
   - 🤝 I’m looking for help with **React, NextJS, VueJS, Design Patterns and Best Practices** 
   - 👨‍💻 All of my projects are available at [https://github.com/CoutoDev](https://github.com/CoutoDev)
