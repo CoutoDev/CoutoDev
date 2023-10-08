@@ -11,6 +11,8 @@
   - 🌱 I’m currently learning **React, Redux, TypeScript and Tests** 
   - 👨‍💻 All of my projects are available at [https://github.com/CoutoDev](https://github.com/CoutoDev)
 
+[![An image of @coutodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coutodev)](https://holopin.io/@coutodev)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://dev.to/coutodev" target="blank"
