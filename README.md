@@ -8,7 +8,7 @@
 	/>
 </p>
 
-  - 🌱 I’m currently learning **React, Redux, TypeScript and Tests** 
+  - 🌱 I’m currently learning **Zustand, TailwindCSS, AlpineJS and Hyvä (Magento 2 frontend alternative)** 
   - 👨‍💻 All of my projects are available at [https://github.com/CoutoDev](https://github.com/CoutoDev)
 
 [![An image of @coutodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coutodev)](https://holopin.io/@coutodev)
