@@ -8,7 +8,7 @@
 	/>
 </p>
 
-  - 🌱 I’m currently learning **NextJS, NodeJs, Hyvä (Magento 2 frontend alternative) and Software Architecture** 
+  - 🌱 I’m currently learning **Web Performance, Team Leadership and Software Architecture** 
   - 👨‍💻 All of my projects are available at [https://github.com/CoutoDev](https://github.com/CoutoDev)
 
 [![An image of @coutodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coutodev)](https://holopin.io/@coutodev)
